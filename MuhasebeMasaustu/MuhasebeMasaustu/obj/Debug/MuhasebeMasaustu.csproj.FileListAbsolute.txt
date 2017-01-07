@@ -1,0 +1,9 @@
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\bin\Debug\MuhasebeMasaustu.exe.config
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\bin\Debug\MuhasebeMasaustu.exe
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\bin\Debug\MuhasebeMasaustu.pdb
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\obj\Debug\MuhasebeMasaustu.csprojResolveAssemblyReference.cache
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\obj\Debug\MuhasebeMasaustu.Form1.resources
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\obj\Debug\MuhasebeMasaustu.Properties.Resources.resources
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\obj\Debug\MuhasebeMasaustu.csproj.GenerateResource.Cache
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\obj\Debug\MuhasebeMasaustu.exe
+C:\Users\Mahmut\Desktop\MuhasebeMasaustu\MuhasebeMasaustu\obj\Debug\MuhasebeMasaustu.pdb
